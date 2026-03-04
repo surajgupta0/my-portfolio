@@ -8,7 +8,6 @@ export default defineConfig({
     host: "::",
     port: 5173, // default Vite port (recommended)
   },
-  base: "/my-portfolio/",
   plugins: [react()],
   resolve: {
     alias: {
