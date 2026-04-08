@@ -66,7 +66,7 @@ const Navbar = () => {
             transition={{ delay: 0.5 }}
           >
             <a
-              href="/Surajkumar_Gupta_Resume.pdf.pdf"
+              href="/Surajkumar_Gupta_Resume.pdf"
               target="_blank"
               className="font-mono text-sm px-4 py-2 border border-primary text-primary rounded hover:bg-primary/10 transition-all"
             >
