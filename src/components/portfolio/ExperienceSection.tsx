@@ -23,8 +23,8 @@ const experiences = [
     period: "October 2022 - October 2023",
     highlights: [
       "Developed scalable web applications using PHP, MySQL, and JavaScript supporting 100,000+ monthly active users",
-      "Optimized backend queries reducing load times by 20% and improved application efficiency by 15%",
-      "Collaborated with cross-functional teams to resolve performance bottlenecks and enhance user engagement",
+      "Used Python for automation, data processing, and API integrations, reducing manual effort in backend operations.",
+      "Developed Django-based internal tools and admin dashboards for monitoring, reporting, and managing system data",
     ],
   },
   {
